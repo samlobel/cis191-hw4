@@ -1,3 +1,3 @@
 cis191-hw4
 ==========
-Make love, not war
+This line explains that this repository is used for a homework assignment.
